@@ -6,13 +6,13 @@ Each group or student will work on a unique case study and submit their work und
 
 ---
 
-## ✅ Submission Instructions
+## Submission Instructions
 
-1. **Create a folder** using the following format in the sub courese folder:
+1. **Create a folder** using the following format in the sub course folder:
 
    `[Year]_[Semester]_[Short_Title]`
       
-✅ *Examples:*
+*Examples:*
 - `2025_Spring_AI_Hiring_Bias`
 - `2026_Fall_Customer_Churn`
   
@@ -38,8 +38,6 @@ Each group or student will work on a unique case study and submit their work und
 5. **Post in the Regis MSDS LinkedIn Group**:
 - Write summary of your case study and share it on the following LinkedIn group:  
   👉 [MSDS LinkedIn Group](https://www.linkedin.com/groups/12682252/)
-- Share the LinkedIn post link in the course shell (assignment submission area).
-
 ---
 
 ## 📚 Student Case Studies
