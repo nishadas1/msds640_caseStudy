@@ -38,9 +38,19 @@ Each group or student will work on a unique case study and submit their work und
 5. **Post in the Regis MSDS LinkedIn Group**:
 - Write summary of your case study and share it on the following LinkedIn group:  
   👉 [MSDS LinkedIn Group](https://www.linkedin.com/groups/12682252/)
+
+
+- Write the report using [**APA LaTeX Template**](https://github.com/iamgmujtaba/LaTeX-APA_Template)
+
+- If you have any questions, reach out to your instructor.
+
 ---
 
 ## 📚 Student Case Studies
+
+> Please update the table with the relevant information.
+
+### 25Spr8W2_MSDS640_S70
 
 | Student Name | Case Study Title | Code | Presentation | Report |
 |--------------|------------------|------|--------------|--------|
@@ -57,13 +67,5 @@ Each group or student will work on a unique case study and submit their work und
 |Bharath Chandra|Racial Bias in HMDA dataset|[code](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/CODE/Racial_Bias_EDTA.ipynb)|[Slides](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/presentation/Final-%20Racial%20Bias%20in%20Loan%20Approvals%20(1).pptx)|[report](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/report/case_study_final_report.pdf)|
 |Harsha Vardhini|Racial Bias in HMDA Dataset|[code](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/CODE/Racial_Bias_EDTA.ipynb)|[Slides](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/presentation/Final-%20Racial%20Bias%20in%20Loan%20Approvals%20(1).pptx)|[report](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/report/case_study_final_report.pdf)|
 | Yassine Alami|Bias in AI Predictive Policing|[Code](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Code) | [Slides](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) | [Report](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) |
-
-> Please update the table with the relevant information.
-
----
-
-- Write the report using [**APA LaTeX Template**](https://github.com/iamgmujtaba/LaTeX-APA_Template)
-
-- If you have any questions, reach out to your instructor.
 
 ---
