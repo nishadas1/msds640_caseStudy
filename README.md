@@ -31,9 +31,9 @@ Each group or student will work on a unique case study and submit their work und
 
 3. Upload your work to the appropriate folders.
 4. **Update the table below** with:
-- Your name or group name
-- Case study title
-- Links to your code, presentation, and report
+   - Your name or group name
+   - Case study title
+   - Links to your code, presentation, and report
 
 5. **Post in the Regis MSDS LinkedIn Group**:
 - Write summary of your case study and share it on the following LinkedIn group:  
@@ -49,6 +49,16 @@ Each group or student will work on a unique case study and submit their work und
 ## 📚 Student Case Studies
 
 > Please update the table with the relevant information.
+
+ 
+
+### 25Sumr8W2_MSDS640_X70
+| Student Name | Case Study Title | Code | Presentation | Report |
+|--------------|------------------|------|--------------|--------|
+| Name| Title | [Code]() | [Slides]() | [Report]() |
+
+
+---
 
 ### 25Spr8W2_MSDS640_S70
 
