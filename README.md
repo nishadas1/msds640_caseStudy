@@ -1,16 +1,12 @@
 # MSDS640 - Case Studies
 
-This repository serves as a centralized hub for all student projects, including their code, presentations, and final reports.
-
-Each group or student will work on a unique case study and submit their work under the corresponding sections below. 
+This repository serves as a centralized hub for all student projects, including their code, presentations, and final reports. Each group or student will work on a unique case study and submit their work under the corresponding sections below.
 
 ---
 
 ## Submission Instructions
-
-1. **Create a folder** using the following format in the sub course folder:
-
-   `[Year]_[Semester]_[Short_Title]`
+1. **Create a folder** using the following format in the sub-course folder:
+   `[Year]_[Short_Title]`
       
 *Examples:*
 - `2025_Spring_AI_Hiring_Bias`
@@ -36,12 +32,10 @@ Each group or student will work on a unique case study and submit their work und
    - Links to your code, presentation, and report
 
 5. **Post in the Regis MSDS LinkedIn Group**:
-- Write summary of your case study and share it on the following LinkedIn group:  
+- Write short summary of your case study and share it on the following LinkedIn Regis University MSDS group:  
   👉 [MSDS LinkedIn Group](https://www.linkedin.com/groups/12682252/)
 
-
 - Write the report using [**APA LaTeX Template**](https://github.com/iamgmujtaba/LaTeX-APA_Template)
-
 - If you have any questions, reach out to your instructor.
 
 ---
