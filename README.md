@@ -56,6 +56,7 @@ Each group or student will work on a unique case study and submit their work und
 | Student Name | Case Study Title | Code | Presentation | Report |
 |--------------|------------------|------|--------------|--------|
 | Name| Title | [Code]() | [Slides]() | [Report]() |
+| Craig Rudman | | | | | |
 
 
 ---
