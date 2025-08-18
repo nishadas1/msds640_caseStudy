@@ -74,3 +74,15 @@ This repository serves as a centralized hub for all student projects, including 
 | Yassine Alami|Bias in AI Predictive Policing|[Code](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Code) | [Slides](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) | [Report](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) |
 
 ---
+
+
+### 24Fall8W2_MSDS640
+| Name | Case Study Title | 
+|--------------|------------------|
+| Pavan Kalyan Reddy Kamasaani, Praveen Goud Angolla, and Karunakar Thammadi| Ethical AI in Hiring | 
+| Maryi Palacios, Barsha Kakshapatii, and Villi Sigurdsson |Data Breach Analysis: A Comprehensive Study | 
+| Madhuri Kothi, Nahian Arnob, and Chamundeshwari Kottur |Ethical Analysis of Predictive Analytics in Retail Industry |
+| Kommineni Rayudu, Sonam Rinjin Sherpa, Karthik Javvaji, and Raji Reddy |Resume Bias in AI Hiring Systems |
+| Prakriti Dahal, Rabin Acharya, Apurba Poudel, and Adam Khay |Breast Cancer Patient Bias |
+
+---
